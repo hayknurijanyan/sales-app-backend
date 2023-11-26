@@ -22,7 +22,7 @@ This is the backend repository for the Sales App project. It manages product sal
 2. Install dependencies using `npm install`.
 3. Set up environment variables:
    - Create a `.env` file.
-   - Add necessary environment variables from .env.sample file.
+   - Add necessary environment variables from email attachment or contact me to get your env variables hayknurijanyan@gmail.com.
 4. Run the server using `npm start`.
 5. The server should be running on `http://localhost:4000` by default.
 
